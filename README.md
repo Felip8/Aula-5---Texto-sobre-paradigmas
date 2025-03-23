@@ -16,7 +16,7 @@ Como assim?
 
 Na programação, o modo _paradgimático_ de pensar está muito ligado na forma como um código deve ser escrito.
 Antes de começarmos a escrever o código em si, já pensamos em como vamos estruturar cada parte dele. Logo,
-todos os códigos possuem uma regra a serem seguidos enquantos são escritos.
+todos os códigos possuem uma regra a serem seguidas enquanto são escritos.
 
 Até o momento, iremos falar sobre ***2 tipos de paradgimas*** encontrados dentro da programação.
 
@@ -29,13 +29,17 @@ começa a funcionar através de comandos e instruções que dizem ao sistema, co
 que forma aquela tarefa será realizada.
 
 >No paradigma imperativo, o programador é que tem o total controle sobre o fluxo de execução
-> do próprio código. Pois é ele que padroniza a forma que o código será executado.
+> do próprio código. Pois é ele quem padroniza a forma que o código será executado.
 
->É aqui que o desenvolvedor usa estrura de controle como:
+É aqui que o desenvolvedor usa estruras de controle como:
 
 * Laços
 * Condicionais
 * E atribuições diretas (aquelas feitas dentro das variáveis) 
+
+## Exemplo em Java - Verificando se um número é par
+![imagem java](./Aula-5---Texto-sobre-paradigmas/código em java.png)
+
 
 
 
