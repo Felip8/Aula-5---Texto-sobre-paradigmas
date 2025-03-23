@@ -16,7 +16,7 @@ Como assim?
 
 Na programação, o modo _paradgimático_ de pensar está muito ligado na forma como um código deve ser escrito.
 Antes de começarmos a escrever o código em si, já pensamos em como vamos estruturar cada parte dele. Logo,
-todos os códigos possuem uma regra a sere seguida enquanto são escritos.
+todos os códigos possuem uma regra a ser seguida enquanto são escritos.
 
 Até o momento, iremos falar sobre ***2 tipos de paradgimas*** encontrados dentro da programação.
 
