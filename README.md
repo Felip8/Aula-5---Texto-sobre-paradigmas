@@ -1,4 +1,4 @@
-# Aula 4 - PARADGIMAS
+# Aula 5 - PARADGIMAS
 ## _Imperativo e Declarativo_ - Java
 
 Antes de começarmos precisamos entender do que se trata os Paradigmas.
@@ -22,6 +22,8 @@ Até o momento, iremos falar sobre ***2 tipos de paradgimas*** encontrados dentr
 
 ## São eles:
 
+>***Paradigma imperativo e Paragima declarativo***
+
 ### Paradgima imperativo:
 É uma forma de escrita de código na qual, quando escrevemos, damos ordens ao computador com o fim
 de atingir um determinado objetivo. Quando estamos escrevendo esse tipo de texto, o código
@@ -39,6 +41,31 @@ que forma aquela tarefa será realizada.
 
 ## Exemplo em Java - Verificando se um número é par
 ![código em java](./java.png)
+
+Aqui conseguimos notar que o desenvolvedor pensou em escrever o código dentro de uma main diretamente.
+
+Logo após, o mesmo criou uma varíavel to tipo [***int***] com o nome [***número***] e deu um valor 8 para a 
+variável.
+>Aqui foi feita uma atribuição direta a varíavel, ***como falado anteiormente***.
+
+Então o desenvolvedor usou de um laço de repetição para dizer que:
+
+Se o número determinado anteriormente for par, então o que vai ser mostrado na tela será ***par***.
+
+Se o número determinado anteriormente for ímpar, então o que vai ser mostrado na tela será ***ímpar***.
+
+Notasse também que o método para saber se um número é ***ímpar*** ou ***par*** vem através dessa linha de código:
+
+![if](if.png)
+
+### Conclusão
+
+Tudo nesse código está muito bem explícito sobre qual é o papel dele ao ser compilado.
+
+
+
+
+
 
 
 
