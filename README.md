@@ -38,7 +38,7 @@ que forma aquela tarefa será realizada.
 * E atribuições diretas (aquelas feitas dentro das variáveis) 
 
 ## Exemplo em Java - Verificando se um número é par
-![Descrição da imagem](./Aula-5---Texto-sobre-paradigmas/código%20em%20java.png)
+![código em java](./java.png)
 
 
 
