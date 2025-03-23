@@ -105,7 +105,7 @@ a verificação, só define a relação lógica.
 * **Declarativo:**
   * Foca no que fazer.
   * O sistema resolve automaticamente o problema com base em regras.
-  * A ordem das instruções não é importante, o sistema usa lógica para resolver.
+  * A ordem das instruções não é importante, o sistema usa lógica para resolver
 
 
 
