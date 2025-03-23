@@ -16,7 +16,7 @@ Como assim?
 
 Na programação, o modo _paradgimático_ de pensar está muito ligado na forma como um código deve ser escrito.
 Antes de começarmos a escrever o código em si, já pensamos em como vamos estruturar cada parte dele. Logo,
-todos os códigos possuem uma regra a serem seguidas enquanto são escritos.
+todos os códigos possuem uma regra a sere seguida enquanto são escritos.
 
 Até o momento, iremos falar sobre ***2 tipos de paradgimas*** encontrados dentro da programação.
 
@@ -43,24 +43,30 @@ que forma aquela tarefa será realizada.
 ![código em java](./java.png)
 
 Aqui conseguimos notar que o desenvolvedor pensou em escrever o código dentro de uma main diretamente.
-
 Logo após, o mesmo criou uma varíavel to tipo [***int***] com o nome [***número***] e deu um valor 8 para a 
 variável.
 >Aqui foi feita uma atribuição direta a varíavel, ***como falado anteiormente***.
 
-Então o desenvolvedor usou de um laço de repetição para dizer que:
-
-Se o número determinado anteriormente for par, então o que vai ser mostrado na tela será ***par***.
-
+Então o desenvolvedor usou de um laço de repetição para dizer que: se o número determinado anteriormente for par, então o que vai ser mostrado na tela será ***par***.
 Se o número determinado anteriormente for ímpar, então o que vai ser mostrado na tela será ***ímpar***.
 
 Notasse também que o método para saber se um número é ***ímpar*** ou ***par*** vem através dessa linha de código:
 
 ![if](if.png)
 
+## Outra forma de escrever o código
+![método impar ou par](java1.png)
+
+Essa é outra forma de escrever o código anterior, mas ainda segue a mesma ideia do ***Paradigma imperativo***.
+
+Nós ainda temos um método no qual possue as suas próprias regras de como rodar o código, a única coisa que mudou
+é que agora temos dois métodos, _um para fazer o teste lógico e outro para rodar esse teste lógico_.
+
 ### Conclusão
 
-Tudo nesse código está muito bem explícito sobre qual é o papel dele ao ser compilado.
+Tudo neste código está muito bem explícito sobre qual é o papel dele ao ser compilado.
+
+
 
 
 
