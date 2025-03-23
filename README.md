@@ -12,7 +12,7 @@ Como assim?
 
 * Seja ela na área científica
 * Seja ela na área religiosa
-* Seja ela na ***programação***
+* Seja ela na área da ***programação***
 
 Na programação, o modo _paradgimático_ de pensar está muito ligado na forma como um código deve ser escrito.
 Antes de começarmos a escrever o código em si, já pensamos em como vamos estruturar cada parte dele. Logo,
@@ -22,7 +22,7 @@ Até o momento, iremos falar sobre ***2 tipos de paradgimas*** encontrados dentr
 
 ## São eles:
 
->***Paradigma imperativo e Paragima declarativo***
+>***Paradigma imperativo e Paradgima declarativo***
 
 ## Paradgima imperativo:
 É uma forma de escrita de código na qual, quando escrevemos, damos ordens ao computador com o fim
@@ -40,7 +40,7 @@ que forma aquela tarefa será realizada.
 * E atribuições diretas (aquelas feitas dentro das variáveis) 
 
 ## Exemplo em Java - Verificando se um número é par
-![código em java](./java.png)
+![código em java](./Imagens/java.png)
 
 Aqui conseguimos notar que o desenvolvedor pensou em escrever o código dentro de uma main diretamente.
 Logo após, o mesmo criou uma varíavel to tipo [***int***] com o nome [***número***] e deu um valor 8 para a 
@@ -52,10 +52,10 @@ Se o número determinado anteriormente for ímpar, então o que vai ser mostrado
 
 Notasse também que o método para saber se um número é ***ímpar*** ou ***par*** vem através dessa linha de código:
 
-![if](if.png)
+![if](./Imagens/if.png)
 
 ## Outra forma de escrever o código
-![método impar ou par](java1.png)
+![método impar ou par](./Imagens/java1.png)
 
 Essa é outra forma de escrever o código anterior, mas ainda segue a mesma ideia do ***Paradigma imperativo***.
 
@@ -69,7 +69,7 @@ Tudo neste código está muito bem explícito sobre qual é o papel dele ao ser 
 ## Paradgima declarativo
 
 Totalmente diferente do ***Paradigma imperativo***, o ***Paradigma declarativo*** é baseado na ideia de descrever
-o que você quer, ao inves de fazer exatamente como você quer que seja feito.
+o que você quer, ao inves de fazer exatamente como você quer que ele seja feito.
 
 Nesse caso, você se responsabiliza por dizer ao sistema relações e fatos que terão dentro do sistema, e cabe ao sistema
 encontrar alguma solução para aquela resposta usando a sua própria lógica interna.
@@ -83,7 +83,7 @@ Esse tipo de paradigma é muito usado em áreas como:
 * E banco de dados relacionais
 
 ## Exemplo em Prolog - Verificando se um número é par
-![impar ou par Prolog](prolog.png)
+![impar ou par Prolog](./Imagens/prolog.png)
 
 No começo do código é definido que um número é par se o resto da divisão por 2 (mod) for igual a zero (=:=).
 Depois que isso é feito ele desce para a próxima linha.
