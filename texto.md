@@ -45,7 +45,7 @@ que forma aquela tarefa será realizada.
 Aqui conseguimos notar que o desenvolvedor pensou em escrever o código dentro de uma main diretamente.
 Logo após, o mesmo criou uma varíavel to tipo [***int***] com o nome [***número***] e deu um valor 8 para a 
 variável.
->Aqui foi feita uma atribuição direta a varíavel, ***como falado anteiormente***.
+>Aqui foi feita uma atribuição direta a variável, ***como falado anteriormente***.
 
 Então o desenvolvedor usou de um laço de repetição para dizer que: se o número determinado anteriormente for par, então o que vai ser mostrado na tela será ***par***.
 Se o número determinado anteriormente for ímpar, então o que vai ser mostrado na tela será ***ímpar***.
@@ -69,7 +69,7 @@ Tudo neste código está muito bem explícito sobre qual é o papel dele ao ser 
 ## Paradgima declarativo
 
 Totalmente diferente do ***Paradigma imperativo***, o ***Paradigma declarativo*** é baseado na ideia de descrever
-o que você quer, ao inves de fazer exatamente como você quer que ele seja feito.
+o que você quer, ao invés de fazer exatamente como você quer que ele seja feito.
 
 Nesse caso, você se responsabiliza por dizer ao sistema relações e fatos que terão dentro do sistema, e cabe ao sistema
 encontrar alguma solução para aquela resposta usando a sua própria lógica interna.
