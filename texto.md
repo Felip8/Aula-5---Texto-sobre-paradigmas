@@ -40,7 +40,7 @@ que forma aquela tarefa será realizada.
 * E atribuições diretas (aquelas feitas dentro das variáveis) 
 
 ## Exemplo em Java - Verificando se um número é par
-![código em java](./Imagens/java.png)
+![código em java](https://github.com/Felip8/imagens-para-a-aula-5/blob/main/java.png?raw=true)
 
 Aqui conseguimos notar que o desenvolvedor pensou em escrever o código dentro de uma main diretamente.
 Logo após, o mesmo criou uma varíavel to tipo [***int***] com o nome [***número***] e deu um valor 8 para a 
@@ -52,10 +52,10 @@ Se o número determinado anteriormente for ímpar, então o que vai ser mostrado
 
 Notasse também que o método para saber se um número é ***ímpar*** ou ***par*** vem através dessa linha de código:
 
-![if](./Imagens/if.png)
+![if](https://github.com/Felip8/imagens-para-a-aula-5/blob/main/if.png?raw=true)
 
 ## Outra forma de escrever o código
-![método impar ou par](./Imagens/java1.png)
+![método impar ou par](https://github.com/Felip8/imagens-para-a-aula-5/blob/main/java1.png?raw=true)
 
 Essa é outra forma de escrever o código anterior, mas ainda segue a mesma ideia do ***Paradigma imperativo***.
 
@@ -83,7 +83,7 @@ Esse tipo de paradigma é muito usado em áreas como:
 * E banco de dados relacionais
 
 ## Exemplo em Prolog - Verificando se um número é par
-![impar ou par Prolog](./Imagens/prolog.png)
+![impar ou par Prolog](https://github.com/Felip8/imagens-para-a-aula-5/blob/main/prolog.png?raw=true)
 
 No começo do código é definido que um número é par se o resto da divisão por 2 (mod) for igual a zero (=:=).
 Depois que isso é feito ele desce para a próxima linha.
